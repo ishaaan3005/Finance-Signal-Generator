@@ -1,0 +1,35 @@
+[
+    {
+        "summary": "AAPL income statement net income increase from Q1 to Q2.",
+        "symbol": "AAPL",
+        "topics": [
+            "income statement",
+            "net income"
+        ],
+        "sentiment": "Buy",
+        "rating": 8,
+        "timeframe": "1Q"
+    },
+    {
+        "summary": "AAPL balance sheet total assets decrease from Q1 to Q2.",
+        "symbol": "AAPL",
+        "topics": [
+            "balance sheet",
+            "total assets"
+        ],
+        "sentiment": "Sell",
+        "rating": 6,
+        "timeframe": "1Q"
+    },
+    {
+        "summary": "AAPL cash flow operating cash flow decrease from Q1 to Q2.",
+        "symbol": "AAPL",
+        "topics": [
+            "cash flow",
+            "operating cash flow"
+        ],
+        "sentiment": "Sell",
+        "rating": 6,
+        "timeframe": "1Q"
+    }
+]
